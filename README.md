@@ -296,3 +296,6 @@ Scene번호_단계_내용
 
 핵심 메시지 1줄 유지:
 “이 여름, 가장 시원한 곳은 너가 있는 곳”
+
+https://github.com/user-attachments/assets/93ae245a-8d1f-4e06-8529-a2ae0ba1a848
+
